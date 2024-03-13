@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SwathiProject/static/css/main.db62923b.css",
+    "main.js": "/SwathiProject/static/js/main.0a4f5c87.js",
+    "static/js/453.64512fd7.chunk.js": "/SwathiProject/static/js/453.64512fd7.chunk.js",
+    "index.html": "/SwathiProject/index.html",
+    "main.db62923b.css.map": "/SwathiProject/static/css/main.db62923b.css.map",
+    "main.0a4f5c87.js.map": "/SwathiProject/static/js/main.0a4f5c87.js.map",
+    "453.64512fd7.chunk.js.map": "/SwathiProject/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.0a4f5c87.js"
+  ]
+}
